@@ -3,3 +3,4 @@ second line
 third line - my branch
 fourth - my branch
 some hot fix - bug detected in the fifth commit got fixed
+new feature developed added
